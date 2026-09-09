@@ -44,7 +44,7 @@ ecommerce-performance-dashboard/
 4. If the report is connected to a live/external data source, update the data source credentials under **Transform Data → Data Source Settings**.
 
 ## Data Source
-This dashboard uses this [dataset]((https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset)) from Kaggle
+This dashboard uses this [dataset](https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset) from Kaggle
 
 ## Notes
 
