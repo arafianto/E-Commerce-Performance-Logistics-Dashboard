@@ -2,9 +2,6 @@
 
 An interactive Power BI dashboard that tracks core e-commerce KPIs — revenue, orders, average order value, delivery performance, and customer counts — with year-over-year comparisons broken down by region, product category, and payment method.
 
-![Dashboard Preview](assets/dashboard-preview.png)
-*Replace this with a screenshot of your Overview page.*
-
 ## Overview
 
 This dashboard gives a single-page snapshot of e-commerce health, built for quick decision-making: how revenue is trending, which regions and categories are driving performance, and where delivery times may need attention.
@@ -45,14 +42,9 @@ ecommerce-performance-dashboard/
 4. If the report is connected to a live/external data source, update the data source credentials under **Transform Data → Data Source Settings**.
 
 ## Data Source
-
-*Add a short note here on where the underlying data comes from — e.g. a sample e-commerce dataset, a company database, or a public dataset — and the general time range it covers.*
+This dashboard uses this [dataset]((https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset)) from Kaggle
 
 ## Notes
 
 - Measures such as `KPI_TotalRevenue`, `KPI_TotalOrders`, and their `PY_` (prior year) and `YoYGrowth_` counterparts are defined via DAX in the data model.
 - All visuals live on a single **Overview** page for at-a-glance reporting.
-
-## License
-
-*Add a license if you plan to share this publicly (e.g. MIT), or note that the data/report is for portfolio/demo purposes only.*
