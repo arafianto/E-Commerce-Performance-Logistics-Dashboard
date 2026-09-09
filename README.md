@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard that tracks core e-commerce KPIs — revenue, orders, average order value, delivery performance, and customer counts — with year-over-year comparisons broken down by region, product category, and payment method.
 
+![Dashboard Preview](assets/dashboard.png)
+
 ## Overview
 
 This dashboard gives a single-page snapshot of e-commerce health, built for quick decision-making: how revenue is trending, which regions and categories are driving performance, and where delivery times may need attention.
